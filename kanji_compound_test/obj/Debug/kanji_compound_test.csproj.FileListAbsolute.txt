@@ -1,0 +1,10 @@
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\bin\Debug\kanji_compound_test.exe.config
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\bin\Debug\kanji_compound_test.exe
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\bin\Debug\kanji_compound_test.pdb
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.csprojAssemblyReference.cache
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.Form1.resources
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.Properties.Resources.resources
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.csproj.GenerateResource.cache
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.csproj.CoreCompileInputs.cache
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.exe
+E:\Develop\C#\kanji_compound_test\kanji_compound_test\obj\Debug\kanji_compound_test.pdb
